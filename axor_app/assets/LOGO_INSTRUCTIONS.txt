@@ -1,0 +1,20 @@
+📍 PUT YOUR LOGO HERE!
+
+File Name: logo.png
+Location: This folder (axor_app/assets/)
+Full Path: axor_app/assets/logo.png
+
+Requirements:
+- File must be named exactly "logo.png" (lowercase)
+- PNG format with transparent background recommended
+- Square aspect ratio works best (e.g., 512x512, 1024x1024)
+- Will be automatically resized to fit different screens
+
+Once you place your logo.png file here, it will appear in:
+✅ Splash Screen (120x120)
+✅ Sign In Screen (80x80)  
+✅ Sign Up Screen (80x80)
+✅ Forgot Password Screen (80x80)
+✅ Reset Password Screen (80x80)
+
+If logo.png is not found, the app will show a fallback gradient icon.

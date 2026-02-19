@@ -1,0 +1,26 @@
+# Backend specific
+axor_app_backend/node_modules/
+axor_app_backend/.env
+axor_app_backend/mega_cache/
+axor_app_backend/song_metadata_cache/
+axor_app_backend/*.log
+
+# Flutter specific
+axor_app/.dart_tool/
+axor_app/.flutter-plugins
+axor_app/.flutter-plugins-dependencies
+axor_app/.packages
+axor_app/build/
+axor_app/android/.gradle/
+axor_app/android/local.properties
+axor_app/ios/Pods/
+axor_app/ios/.symlinks/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

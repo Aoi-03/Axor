@@ -1,0 +1,26 @@
+[
+  {
+    "id": "playlist_gym",
+    "userId": "user_admin",
+    "name": "Gym Mode - High Energy",
+    "description": "Perfect for intense workouts",
+    "songs": ["song_001", "song_004", "song_008", "song_010"],
+    "createdAt": "2026-02-06T00:00:00Z"
+  },
+  {
+    "id": "playlist_study",
+    "userId": "user_admin",
+    "name": "Study Mode - Focus",
+    "description": "Concentration and productivity",
+    "songs": ["song_003", "song_005", "song_007", "song_009"],
+    "createdAt": "2026-02-06T00:00:00Z"
+  },
+  {
+    "id": "playlist_drive",
+    "userId": "user_admin",
+    "name": "Drive Mode - Road Trip",
+    "description": "Perfect for long drives",
+    "songs": ["song_002", "song_006", "song_009"],
+    "createdAt": "2026-02-06T00:00:00Z"
+  }
+]

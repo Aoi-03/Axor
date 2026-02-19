@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user_admin",
+    "email": "a67154512@gmail.com",
+    "password": "admin123",
+    "username": "Admin",
+    "plan": "premium",
+    "storageUsed": 0,
+    "storageLimit": 100,
+    "likedSongs": [],
+    "playlists": [],
+    "createdAt": "2026-02-06T00:00:00Z"
+  },
+  {
+    "id": "user_test1",
+    "email": "test@example.com",
+    "password": "test123",
+    "username": "TestUser",
+    "plan": "free",
+    "storageUsed": 0,
+    "storageLimit": 1,
+    "likedSongs": [],
+    "playlists": [],
+    "createdAt": "2026-02-06T00:00:00Z"
+  }
+]
